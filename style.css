@@ -4,7 +4,7 @@ body {
     /* Bästem hur allt ska portioneras på hemsidan */
     grid-template-areas:
       "titel titel rectangel1"
-      "Cyclope Bottles DivingFinerectangel1"
+      "Cyclope Bottles DivingFine rectangel1"
       "Regulator DivingComputer Tube rectangel1"
       ;
   
