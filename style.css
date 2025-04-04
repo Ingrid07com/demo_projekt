@@ -1,7 +1,7 @@
 body {
     background-color: rgb(123, 216, 245);
     display: grid;
-    /* Bästem hur allt ska portioneras på hemsidan */
+    /* Bestäm hur allt ska portioneras på hemsidan */
     grid-template-areas:
       "titel titel rectangel1"
       "Cyclope Bottles DivingFine rectangel1"
