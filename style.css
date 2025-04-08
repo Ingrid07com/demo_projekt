@@ -204,6 +204,24 @@ body {
       margin-top: 2%;
       ;
     }
+
+  /* Effekt när man för musen över en produktknapp */
+  .Cyclope button:hover,
+  .Bottles button:hover,
+  .DivingFine button:hover,
+  .Regulator button:hover,
+  .Divingcomputer button:hover,
+  .Tube button:hover {
+  background-color: rgb(65, 105, 225); /* En mörkare blå */
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+
+
+
+
   }
   
-  
+}
